@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning html, js, and php.
+😄 Pronouns: she/her
+
 <!--
 **charinta/charinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
