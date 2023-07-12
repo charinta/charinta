@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning html, js, and php.
+🌱 I’m currently learning html, js, and php. 
+🔭 Now I'm on a project with laravel 10.
 😄 Pronouns: she/her
 
 <!--
