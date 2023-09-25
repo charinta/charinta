@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning html, js, and php. 
-🔭 Now I'm on a project with laravel 10.
+🌱 I’m an Undergraduate Informatics Student at University of Jenderal Soedirman. Currently I'm learning laravel 10. 
 😄 Pronouns: she/her
 
 <!--
